@@ -1,2 +1,5 @@
-package org.example.recaplombak.model;public enum BeerStyle {
+package org.example.recaplombak.model;
+
+public enum BeerStyle {
+    LAGER, PILSNER, STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON
 }
